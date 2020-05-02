@@ -36,6 +36,6 @@
 * Read the pickle and load the classifier.
 
 ## Predicted Stock Price Trend
-![Image of Trend](https://github.com/SarthakPatidar/Machine-Learning/Supervised%20Learning/stock%20price%20prediction/resources/pred2.png)
+![Image of Trend](https://github.com/SarthakPatidar/Machine-Learning/blob/master/Supervised%20Learning/stock%20price%20prediction/resources/pred2.png)
 
-![Image of Prediction](https://github.com/SarthakPatidar/Machine-Learning/Supervised%20Learning/stock%20price%20prediction/resources/pred1.png)
+![Image of Prediction](https://github.com/SarthakPatidar/Machine-Learning/blob/master/Supervised%20Learning/stock%20price%20prediction/resources/pred1.png)
