@@ -1,6 +1,9 @@
 ## Dataset Used
 * [Quandl](https://quandl.com) - WIKI/GOOGL
 
+## Algorithm Implemented
+* [Linear Regression](https://github.com/SarthakPatidar/Machine-Learning/blob/master/Supervised%20Learning/algorithms/linear%20regression/doc/README.md)
+
 ## Steps Followed
 ### 1. Building Features 
 * Indentify the relevant features.
