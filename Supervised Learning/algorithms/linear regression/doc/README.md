@@ -12,4 +12,4 @@
 5. Calculating R squared value.
 
 ### Regression Plot
-![regression plot](https://github.com/SarthakPatidar/Machine-Learning/blob/master/Supervised%20Learning/algorithms/linear%20regression/resources/regfig.png)
+![regression plot](https://github.com/SarthakPatidar/Machine-Learning/blob/master/Supervised%20Learning/algorithms/linear%20regression/resources/figure.png)
