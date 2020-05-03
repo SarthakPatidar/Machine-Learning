@@ -36,15 +36,16 @@ y = df['label']
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2)
 
-# clf = LinearRegression()
-# clf.fit(X_train, y_train)
+clf = LinearRegression()
+clf.fit(X_train, y_train)
 
 ##### Pickling #####
+
 file_path = os.path.abspath(os.path.dirname(__file__))
 pickle_path = os.path.join(file_path, "./resources/linearRegression.pickle")
 
-# with open(pickle_path, 'wb') as f:
-#     pickle.dump(clf, f)
+with open(pickle_path, 'wb') as f:
+    pickle.dump(clf, f)
 
 pickle_in = open(pickle_path, 'rb')
 clf = pickle.load(pickle_in)
